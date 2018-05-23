@@ -1,0 +1,9 @@
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\bin\Debug\Database1.dacpac
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\bin\Debug\Database1.dll
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\bin\Debug\Database1.pdb
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\obj\Debug\Model.xml
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\obj\Debug\refactor.xml
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\obj\Debug\postdeploy.sql
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\obj\Debug\predeploy.sql
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\obj\Debug\Database1.dll
+C:\Users\Zoe\Desktop\自行车管理系统\Database1\obj\Debug\Database1.pdb
